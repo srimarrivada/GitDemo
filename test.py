@@ -1,8 +1,0 @@
-print("This is line1")
-print("line2 is changed in local")
-print("line2 is changed in GitHub")
-print("This is line3")
-print("This is line4")
-print("This is line5")
-print("This is line6")
-print("This is line7")
